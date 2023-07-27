@@ -40,3 +40,4 @@ else
     WeatherReportGenerator.generate_monthly_weather_report(year.to_i, folder_path, month.to_i)
   end
 end
+
